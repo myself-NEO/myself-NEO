@@ -7,8 +7,8 @@
 
 <h5 align="center">Connect with me:</h5>
 <p align="center">
-<a href="https://www.linkedin.com/in/i-keshav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/myself-NEO/icon-store/c2476c0bd035f3254e7283a26ac951ed4d990ad2/social/linkedin.svg" alt="https://www.linkedin.com/in/i-keshav/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/neokkj11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/myself-NEO/icon-store/40910d0d56b4db01e69b54aa895e8034171f248f/social/leetcode.svg" alt="keshav_jha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/i-keshav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/myself-NEO/icon-store/e294049878e90dada06ba24e66c244a702092be1/social/light-theme/linkedin.svg" alt="https://www.linkedin.com/in/i-keshav/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/neokkj11/" target="blank"><img align="center" src="https://github.com/myself-NEO/icon-store/blob/main/social/light-theme/leetcode.png?raw=true" alt="keshav_jha" height="30" width="40" /></a>
 </p>
 
 <div align="center">
