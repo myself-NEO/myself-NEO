@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Keshav K. Jha</h1>
-<h3 align="center">A passionate Software Engineer and ✨ Tech Enthusiast ✨</h3>
+<h3 align="center">✨ A passionate Software Engineer and Tech Enthusiast ✨</h3>
 
-- 🌱 I’m currently learning ** Java Full stack development**
-- 👯 I’m looking to collaborate on ** any exciting project**
-- 💬 Ask me about ** Data Structures, Algorithms, Java Spring Boot, React, Angular**
+- 🌱 I’m currently learning **Java Full stack development**
+- 👯 I’m looking to collaborate on **any exciting project**
+- 💬 Ask me about **Data Structures, Algorithms, Java Spring Boot, React, Angular**
 
 <h5 align="center">Connect with me:</h5>
 <p align="center">
