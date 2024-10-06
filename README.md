@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Keshav K. Jha</h1>
 <h3 align="center">✨ A passionate Software Engineer and Tech Enthusiast ✨</h3>
 
-- 🌱 I’m currently learning **Java Full stack development**
+- 🌱 I’m currently exploring **Java Full stack development**
 - 👯 I’m looking to collaborate on **any exciting project**
-- 💬 Ask me about **Data Structures, Algorithms, Java Spring Boot, React, Angular**
+- 💬 Ask me about **Data Structures, Algorithms, System Design, Java Spring Boot, React, Angular**
 
 <h5 align="center">Connect with me:</h5>
 <p align="center">
@@ -13,8 +13,8 @@
 
 <div align="center">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myself-NEO&theme=github_dark" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=myself-NEO&theme=github_dark"  />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=myself-NEO&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=myself-NEO&theme=github_dark"  />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=myself-NEO&theme=github_dark"/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=myself-NEO&theme=github_dark" />
 </div>
