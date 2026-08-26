@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Keshav K. Jha</h1>
 <h3 align="center">✨ A passionate Software Engineer and Tech Enthusiast ✨</h3>
 
-- 🌱 I’m currently exploring **Java Full stack development**
-- 👯 I’m looking to collaborate on **any exciting project**
-- 💬 Ask me about **Data Structures, Algorithms, System Design, Java Spring Boot, React, Angular**
+- 🏗️ I build scalable, reliable backend systems — Java/Spring Boot microservices
+- 🤖 I also ship AI-integrated products — built an internal generative-AI web app at Google using Vertex AI & Imagen
+- 💬 Ask me about **System Design, Distributed Systems, Java, Spring Boot, Microservices, Data Structures & Algorithms**
+- 👯 Open to collaborating on interesting backend / distributed-systems projects
 
 <h5 align="center">Connect with me:</h5>
 <p align="center">
